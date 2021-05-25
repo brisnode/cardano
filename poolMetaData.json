@@ -3,6 +3,6 @@
 "description": "Robust backup and security, Independent physical node operator – Australian Cardano Start-up",
 "ticker": "BN1AU",
 "homepage": "https://brisnode-cardano.org", 
-"extended": "https://a.adapools.org/extended-example?.json"
+"extended": "https://github.com/brisnode/Extended/blob/main/met"
   
 }
